@@ -7,6 +7,14 @@ export function RestaurantCard(props) {
   function onPageClick(){
     return console.log(props.uuid)
   }
+  // componentDidMount() {
+  //   if (navigator.geolocation) {
+  //     navigator.geolocation.watchPosition(function(position) {
+  //       console.log("Latitude is :", position.coords.latitude);
+  //       console.log("Longitude is :", position.coords.longitude);
+  //     });
+  //   }
+  // }
 
   return (
     <div className="restaurant-card" onClick={() => onPageClick}>
