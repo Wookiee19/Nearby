@@ -1,5 +1,5 @@
 {
-  "name": "nearby-react",
+  "name": "uber-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,7 +24,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "rename-index": "node -e \"require('fs').rename('./build/index.html', './build/200.html', (err) => { console.log(err ? err : 'File renamed!') })\"",
+    "predeploy": "npm run build && npm run rename-index",
+    "deploy": "cd build && surge --domain uber-eats-jukachu.surge.sh",
+    "format": "prettier --write \"src/**/*.{js,jsx,css}\""
   },
   "eslintConfig": {
     "extends": "react-app"
