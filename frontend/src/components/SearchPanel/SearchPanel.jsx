@@ -1,5 +1,8 @@
 import React from "react";
 import "./SearchPanel.css";
+import GooglePlacesAutocomplete, {
+  geocodeByPlaceId
+} from "react-google-places-autocomplete";
 
 export function SearchPanel(props) {
   function inputHandler(event) {
@@ -9,12 +12,7 @@ export function SearchPanel(props) {
 
   return (
     <label className="search-panel__label">
-      <input
-        type="text"
-        className="search-panel__input"
-        placeholder="Search for restaurant or cuisine"
-        onInput={inputHandler}
-      />
+      <GooglePlacesAutocomplete apiKey="AIzaSyBfvIGHRXKZpovQBnn8tmKuIEJzOjZFjKM" />
     </label>
   );
 }

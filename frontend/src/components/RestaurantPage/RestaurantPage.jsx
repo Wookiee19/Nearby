@@ -10,11 +10,11 @@ export function RestaurantPage(props) {
     useEffect(() => {
         (async () => {
             const response = await fetch(
-                `https://uber-eats-mates.herokuapp.com/api/v1/restaurants/${uuid}`
+                `https://nearby-eats-mates.herokuapp.com/api/v1/restaurants/${uuid}`
             );
             const loadedRestaurant = await response.json();
             await setRestaurant(loadedRestaurant);
-            console.log("sss",restaurant);
+            
         })();
     });
 

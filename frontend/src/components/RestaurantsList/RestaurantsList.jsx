@@ -2,12 +2,14 @@ import React, {useEffect, useState} from "react";
 import { RestaurantCard } from "../RestaurantCard/RestaurantCard";
 import "./RestaurantsList.css";
 import {Loader} from "../Loader/Loader";
+import RestaurantsData1 from "../data/RestaurantsData1";
+
 
 export function RestaurantsList(props) {
   const [RestaurantsData, setRestaurantsData] = useState([]);
   useEffect(() => {
     (async () => {
-      const fetchedRestaurants = await fetch('https://uber-eats-mates.herokuapp.com/api/v1/restaurants');
+      const fetchedRestaurants = await fetch('https://nearby-eats-mates.herokuapp.com/api/v1/restaurants');
       const loadedRestaurants = await fetchedRestaurants.json();
 
       await setRestaurantsData(loadedRestaurants);
@@ -44,6 +46,7 @@ export function RestaurantsList(props) {
           />
         );
       }) : <Loader/>}
+      <RestaurantsData1/>
     </div>
   );
 }
