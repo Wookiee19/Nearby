@@ -9,7 +9,7 @@ export function RestaurantsList(props) {
   const [RestaurantsData, setRestaurantsData] = useState([]);
   useEffect(() => {
     (async () => {
-      const fetchedRestaurants = await fetch('https://uber-eats-mates.herokuapp.com/api/v1/restaurants');
+      const fetchedRestaurants = await fetch('https://nearby-eats-mates.herokuapp.com/api/v1/restaurants');
       const loadedRestaurants = await fetchedRestaurants.json();
 
       await setRestaurantsData(loadedRestaurants);
