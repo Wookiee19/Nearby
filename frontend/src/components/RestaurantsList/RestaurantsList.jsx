@@ -2,6 +2,8 @@ import React, {useEffect, useState} from "react";
 import { RestaurantCard } from "../RestaurantCard/RestaurantCard";
 import "./RestaurantsList.css";
 import {Loader} from "../Loader/Loader";
+import RestaurantsData1 from "../data/RestaurantsData1";
+
 
 export function RestaurantsList(props) {
   const [RestaurantsData, setRestaurantsData] = useState([]);
@@ -44,6 +46,7 @@ export function RestaurantsList(props) {
           />
         );
       }) : <Loader/>}
+      <RestaurantsData1/>
     </div>
   );
 }

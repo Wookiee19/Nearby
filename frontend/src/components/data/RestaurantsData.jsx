@@ -5,8 +5,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/ed032859-05fa-4761-9a4f-ac5fb7d5859a.jpg",
     location: {
-      latitude: 50.435982,
-      longitude: 30.50805199999999,
+      latitude: 30.335982,
+      longitude:  78.03805199999999,
       address: "Saksahanskoho St, 57А"
     },
     categories: [
@@ -44,8 +44,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/1543928198626-w550-01.jpg",
     location: {
-      latitude: 50.445875,
-      longitude: 30.49640100000001,
+      latitude: 30.345875,
+      longitude:  78.03640100000001,
       address: "Tarasa Shevchenko Blvd, 31"
     },
     categories: [
@@ -90,8 +90,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/1544521275226-w550-40.jpg",
     location: {
-      latitude: 50.44276509999999,
-      longitude: 30.5195291,
+      latitude: 30.34276509999999,
+      longitude:  78.1395291,
       address: "Tarasa Shevchenko Blvd, 2, Kyiv, Ukraine, 02000"
     },
     categories: [
@@ -131,8 +131,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/d2f73d66-2f80-43d2-814b-d666c8d2240b.jpg",
     location: {
-      latitude: 50.438959,
-      longitude: 30.51944799999999,
+      latitude: 30.338959,
+      longitude:  78.13944799999999,
       address: "Shota Rustaveli St, 16"
     },
     categories: [
@@ -170,8 +170,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/f51103dd-acd1-4b10-a87c-6a40c2f5884e.jpg",
     location: {
-      latitude: 50.4391605,
-      longitude: 30.5171764,
+      latitude: 30.3391605,
+      longitude:  78.1371764,
       address: "Velyka Vasylkivska St, 23"
     },
     categories: [
@@ -209,8 +209,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/1543587430556-w550-47.jpg",
     location: {
-      latitude: 50.442383,
-      longitude: 30.521535,
+      latitude: 30.342383,
+      longitude:  78.231535,
       address: "Bessarabs'ka Square, 2"
     },
     categories: [
@@ -256,8 +256,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/b25926dd-02a8-4a75-8f81-1f25a08c8be0.jpg",
     location: {
-      latitude: 50.44418727034851,
-      longitude: 30.49753181597313,
+      latitude: 30.34418727034851,
+      longitude:  78.03753181597313,
       address: "Symona Petlyury St, 16"
     },
     categories: [
@@ -297,8 +297,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/0d86b04b-4383-4f96-a7bc-1b460326ca9d.jpg",
     location: {
-      latitude: 50.442647703993565,
-      longitude: 30.521395343482457,
+      latitude: 30.342647703993565,
+      longitude:  78.231395343482457,
       address: "Bessarabs'ka Square, 2"
     },
     categories: [
@@ -342,8 +342,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/07114a6a-343a-4015-b228-0e42e9b6810b.jpg",
     location: {
-      latitude: 50.4470799,
-      longitude: 30.4886158,
+      latitude: 30.3470799,
+      longitude:  78.0386158,
       address: "Peremohy Ave, 3, Kyiv, Ukraine, 02000"
     },
     categories: [
@@ -396,8 +396,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/61eb08eb-01d3-462f-aad2-e9a577a99417.jpg",
     location: {
-      latitude: 50.432358,
-      longitude: 30.513167,
+      latitude: 30.332358,
+      longitude:  78.133167,
       address: "Antonovycha St, 50"
     },
     categories: [
@@ -436,8 +436,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/0e8d32ee-5f96-45dc-99db-19b17001d4ee.jpg",
     location: {
-      latitude: 50.441838,
-      longitude: 30.5228859,
+      latitude: 30.341838,
+      longitude:  78.2328859,
       address: "Baseina St, 1/2"
     },
     categories: [
@@ -477,8 +477,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/48efae80-7609-44a2-bec8-afbae76fab98.jpg",
     location: {
-      latitude: 50.44652010271184,
-      longitude: 30.496426427143586,
+      latitude: 30.34652010271184,
+      longitude:  78.036426427143586,
       address: "Tarasa Shevchenko Blvd, 56"
     },
     categories: [
@@ -518,8 +518,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/be1c1aa8-604c-4b62-966b-807ca06adab0.jpg",
     location: {
-      latitude: 50.43883654193364,
-      longitude: 30.484408818940935,
+      latitude: 30.33883654193364,
+      longitude:  78.034408818940935,
       address: "Heorhiia Kirpy St, 3"
     },
     categories: [
@@ -567,8 +567,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/67fa5b5d-f329-40f5-8b71-f0d2ae530d7b.jpg",
     location: {
-      latitude: 50.438354,
-      longitude: 30.519549,
+      latitude: 30.338354,
+      longitude:  78.139549,
       address: "Shota Rustaveli St, 19"
     },
     categories: [
@@ -609,8 +609,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/87cf9d57-d9db-4817-9ac2-ba18bc56bad4.jpg",
     location: {
-      latitude: 50.442465017329766,
-      longitude: 30.52185985260985,
+      latitude: 30.342465017329766,
+      longitude:  78.23185985260985,
       address: "Bessarabs'ka Square, 2"
     },
     categories: [
@@ -654,8 +654,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/f63d77ff-72b8-4da0-bed7-bfbe9dc5b203.jpg",
     location: {
-      latitude: 50.44078825996577,
-      longitude: 30.516605599335705,
+      latitude: 30.34078825996577,
+      longitude:  78.136605599335705,
       address: "Pushkinska St, 39"
     },
     categories: [
@@ -691,8 +691,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/689352da-8b67-4ec9-b84b-50459d7d56f8.jpg",
     location: {
-      latitude: 50.438784799109875,
-      longitude: 30.520026420780066,
+      latitude: 30.338784799109875,
+      longitude:  78.230026420780066,
       address: "Shota Rustaveli St, 15"
     },
     categories: [
@@ -729,8 +729,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/0a95ed46-9c6a-43d5-8644-3259b37484ba.jpg",
     location: {
-      latitude: 50.442383,
-      longitude: 30.521535,
+      latitude: 30.342383,
+      longitude:  78.231535,
       address: "Bessarabs'ka Square, 2"
     },
     categories: [
@@ -775,8 +775,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/a48d013f-2130-411c-ada3-422dbeb731f2.jpg",
     location: {
-      latitude: 50.450755,
-      longitude: 30.513669,
+      latitude: 30.350755,
+      longitude:  78.133669,
       address: "Zolotovoritska St, 3/2, Kyiv, Ukraine, 02000"
     },
     categories: [
@@ -812,8 +812,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/3c2ffa6a-84a8-4338-aee3-e0b88f12a280.jpg",
     location: {
-      latitude: 50.439749,
-      longitude: 30.511726,
+      latitude: 30.339749,
+      longitude:  78.131726,
       address: "Lva Tolstoho St, 11/61"
     },
     categories: [
@@ -855,8 +855,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/7de8ef71-0282-48bd-bee3-a9b8e8d34c07.jpg",
     location: {
-      latitude: 50.4294014,
-      longitude: 30.5156605,
+      latitude: 30.3294014,
+      longitude:  78.1356605,
       address: "вулиця Велика Васильківська, 88, Київ, Украина, 02000"
     },
     categories: [
@@ -896,8 +896,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/dba367fc-e42b-4eb3-a532-220c5046abf5.jpg",
     location: {
-      latitude: 50.42123049692734,
-      longitude: 30.519567185639513,
+      latitude: 30.32123049692734,
+      longitude:  78.139567185639513,
       address: "Velyka Vasylkivska St, 114"
     },
     categories: [
@@ -958,8 +958,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/2cfe6bc9-0bff-4f46-85d6-75c9b2392016.jpg",
     location: {
-      latitude: 50.4412854,
-      longitude: 30.499243,
+      latitude: 30.3412854,
+      longitude:  78.039243,
       address: "Saksahanskoho St, 109"
     },
     categories: [
@@ -998,8 +998,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/1544698474444-w550-13.jpg",
     location: {
-      latitude: 50.440267,
-      longitude: 30.523493,
+      latitude: 30.340267,
+      longitude:  78.233493,
       address: "Baseina St, 13"
     },
     categories: [
@@ -1040,8 +1040,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/25884f4c-c176-4388-affb-45e5e55018a1.jpg",
     location: {
-      latitude: 50.44623012538354,
-      longitude: 30.51551990287617,
+      latitude: 30.34623012538354,
+      longitude:  78.13551990287617,
       address: "Bohdana Khmel'nyts'koho St, 16-22"
     },
     categories: [
@@ -1082,8 +1082,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/a329e2b2-2ea6-4e74-aa77-012f17dec3d1.jpg",
     location: {
-      latitude: 50.45221199999999,
-      longitude: 30.517241,
+      latitude: 30.35221199999999,
+      longitude:  78.137241,
       address: "Sofiivs'ka St, 23"
     },
     categories: [
@@ -1119,8 +1119,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/671b9d74-d74c-4185-8065-c72ae499c8d3.jpg",
     location: {
-      latitude: 50.4388667,
-      longitude: 30.5230665,
+      latitude: 30.3388667,
+      longitude:  78.2330665,
       address: "Спортивна площа, 1a, Київ, Украина, 01023"
     },
     categories: [{ uuid: "Burger", name: "Бургери", keyName: "Burger" }],
@@ -1140,8 +1140,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/efecb48a-58b1-4adf-a802-9901a2b30611.jpg",
     location: {
-      latitude: 50.45545699999999,
-      longitude: 30.511433,
+      latitude: 30.35545699999999,
+      longitude:  78.131433,
       address: "Velyka Zhytomyrska St, 26"
     },
     categories: [
@@ -1170,8 +1170,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/2d3df769-97e8-4d3a-820c-000d40662070.jpg",
     location: {
-      latitude: 50.44709341880999,
-      longitude: 30.522159244598875,
+      latitude: 30.34709341880999,
+      longitude:  78.232159244598875,
       address: "Khreschatyk St, 19, Kyiv, Ukraine, 02000"
     },
     categories: [
@@ -1207,8 +1207,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/d959fcf0-3b5c-4932-b516-4ef08bddd7b9.jpg",
     location: {
-      latitude: 50.442927,
-      longitude: 30.4982845,
+      latitude: 30.342927,
+      longitude:  78.0382845,
       address: "Saksahanskoho St, 102"
     },
     categories: [
@@ -1248,8 +1248,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/25749b8e-06a5-487f-a7ba-390799ebb550.jpg",
     location: {
-      latitude: 50.4366502,
-      longitude: 30.5202861,
+      latitude: 30.3366502,
+      longitude:  78.2302861,
       address: "Esplanadna St, 32"
     },
     categories: [
@@ -1291,8 +1291,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/023df241-f8a7-4381-bbaa-5fd244b6270c.jpg",
     location: {
-      latitude: 50.44714742082604,
-      longitude: 30.507990610500475,
+      latitude: 30.34714742082604,
+      longitude:  78.037990610500475,
       address: "Bohdana Khmel'nyts'koho St, 42"
     },
     categories: [
@@ -1328,8 +1328,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/c1fcbae1-6ec8-4ac0-8950-0e7e59987cda.jpg",
     location: {
-      latitude: 50.455495,
-      longitude: 30.507831,
+      latitude: 30.355495,
+      longitude:  78.037831,
       address: "Velyka Zhytomyrska St, 40"
     },
     categories: [
@@ -1372,8 +1372,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/e613af55-5537-4b9a-afd2-b265cdfe57bf.jpg",
     location: {
-      latitude: 50.44921600000001,
-      longitude: 30.48965299999999,
+      latitude: 30.34921600000001,
+      longitude:  78.03965299999999,
       address: "Zolotoustivska St, 14"
     },
     categories: [
@@ -1409,8 +1409,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/74e8b941-6bc5-4fd9-9a2f-943401b8d2b4.jpg",
     location: {
-      latitude: 50.46246019999999,
-      longitude: 30.5189963,
+      latitude: 30.36246019999999,
+      longitude:  78.1389963,
       address: "Petra Sahaidachnoho St, 41"
     },
     categories: [
@@ -1445,8 +1445,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/1543904269691-w550-23.jpg",
     location: {
-      latitude: 50.446334883147344,
-      longitude: 30.50874306511303,
+      latitude: 30.346334883147344,
+      longitude:  78.03874306511303,
       address: "Ivana Franka St, 27"
     },
     categories: [
@@ -1483,8 +1483,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/59373330-03ea-4d53-af9b-d5d172d24411.jpg",
     location: {
-      latitude: 50.4443735,
-      longitude: 30.5379311,
+      latitude: 30.3443735,
+      longitude:  78.2579311,
       address: "Instytutska St, 27"
     },
     categories: [
@@ -1536,8 +1536,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/03a60f51-9cea-4e8e-8408-5a093b46d086.jpg",
     location: {
-      latitude: 50.4196483,
-      longitude: 30.521504,
+      latitude: 30.3196483,
+      longitude:  78.231504,
       address: "Velyka Vasylkivska St, 111"
     },
     categories: [
@@ -1577,8 +1577,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/a6e3b205-9b0b-4b7f-8f4c-64d1a1dd88c9.jpg",
     location: {
-      latitude: 50.4512767,
-      longitude: 30.5122652,
+      latitude: 30.3512767,
+      longitude:  78.1322652,
       address: "Reitarska St, 13"
     },
     categories: [
@@ -1620,7 +1620,7 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/32642c43-8a73-4db7-a242-3d0c698543a8.jpg",
     location: {
-      latitude: 50.43272866496525,
+      latitude: 30.33272866496525,
       longitude: 30.545549495256093,
       address: "Moskovska St, 41/8"
     },
@@ -1661,8 +1661,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/318dda12-2a82-425f-a0c7-d8797f0722a0.jpg",
     location: {
-      latitude: 50.44682818092414,
-      longitude: 30.51140331127487,
+      latitude: 30.34682818092414,
+      longitude:  78.13140331127487,
       address: "Bohdana Khmel'nyts'koho St, 30/10"
     },
     categories: [
@@ -1726,8 +1726,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/1544699487850-w550-1b.jpg",
     location: {
-      latitude: 50.4594392,
-      longitude: 30.5149474,
+      latitude: 30.3594392,
+      longitude:  78.1349474,
       address: "Vozdvyzhens'ka St, 51"
     },
     categories: [
@@ -1773,8 +1773,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/03fbe421-5942-40fe-88d3-0991c3721d1a.jpg",
     location: {
-      latitude: 50.45103599999999,
-      longitude: 30.510266,
+      latitude: 30.35103599999999,
+      longitude:  78.130266,
       address: "Yaroslaviv Val St, 20"
     },
     categories: [
@@ -1816,8 +1816,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/e6f5a386-80b2-490e-afe2-d227170444b4.jpg",
     location: {
-      latitude: 50.43968912048784,
-      longitude: 30.51126550220096,
+      latitude: 30.33968912048784,
+      longitude:  78.13126550220096,
       address: "Volodymyrska St, 61"
     },
     categories: [
@@ -1851,8 +1851,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/d0f2bb55-eb63-4de2-8671-cc7c13e6c6f9.jpg",
     location: {
-      latitude: 50.44114800000001,
-      longitude: 30.522904,
+      latitude: 30.34114800000001,
+      longitude:  78.232904,
       address: "Baseina St, 5Б"
     },
     categories: [
@@ -1888,8 +1888,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/fb3b058d-4f39-41d6-ac92-7c5150512377.jpg",
     location: {
-      latitude: 50.432576,
-      longitude: 30.51398099999999,
+      latitude: 30.332576,
+      longitude:  78.13398099999999,
       address: "Antonovycha St, 45"
     },
     categories: [
@@ -1925,8 +1925,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/3f6b06fb-13cf-4ff5-911d-f4e35de2daaf.jpg",
     location: {
-      latitude: 50.4519463,
-      longitude: 30.5210659,
+      latitude: 30.3519463,
+      longitude:  78.2310659,
       address: "Mala Zhytomyrska St, 3"
     },
     categories: [
@@ -1960,8 +1960,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/162d8d7d-7e73-42f0-94bc-d1f0e7050477.jpg",
     location: {
-      latitude: 50.4585853,
-      longitude: 30.4869158,
+      latitude: 30.3585853,
+      longitude:  78.0369158,
       address: "Sichovykh Striltsiv St, 84"
     },
     categories: [
@@ -1997,8 +1997,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/2b03ef80-e0c6-41ea-b89e-260545158014.jpg",
     location: {
-      latitude: 50.4344514,
-      longitude: 30.5164521,
+      latitude: 30.3344514,
+      longitude:  78.1364521,
       address: "Velyka Vasylkivska St, 49А"
     },
     categories: [
@@ -2037,8 +2037,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/66046b7f-a897-4b2d-a823-77b9cc5c9440.jpg",
     location: {
-      latitude: 50.43982251101283,
-      longitude: 30.53787672023791,
+      latitude: 30.33982251101283,
+      longitude:  78.25787672023791,
       address: "Klovs'kyi descent, 10, Kyiv, Ukraine, 02000"
     },
     categories: [
@@ -2090,8 +2090,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/65552fc4-7c5a-4bcd-b97c-57b49cfd6486.jpg",
     location: {
-      latitude: 50.4539978,
-      longitude: 30.5114524,
+      latitude: 30.3539978,
+      longitude:  78.1314524,
       address: "Olesia Honchara St, 15/3"
     },
     categories: [
@@ -2119,8 +2119,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/b1ec01e3-404b-4836-bf26-fc7825abae12.jpg",
     location: {
-      latitude: 50.46275285141717,
-      longitude: 30.519456921246412,
+      latitude: 30.36275285141717,
+      longitude:  78.139456921246412,
       address: "Petra Sahaidachnoho St, 24"
     },
     categories: [
@@ -2160,8 +2160,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/04f2946f-11ef-49f2-8a36-f5ad7aadd7fd.jpg",
     location: {
-      latitude: 50.4490952,
-      longitude: 30.52041839999999,
+      latitude: 30.3490952,
+      longitude:  78.23041839999999,
       address: "Borysa Hrinchenka St, 9"
     },
     categories: [
@@ -2197,8 +2197,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea.jpg",
     location: {
-      latitude: 50.42437677282379,
-      longitude: 30.515392700414406,
+      latitude: 30.32437677282379,
+      longitude:  78.135392700414406,
       address: "Laboratorna St, 19/93"
     },
     categories: [
@@ -2234,8 +2234,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/e3d12771-362d-4238-bcad-889e23a55c36.jpg",
     location: {
-      latitude: 50.4417297,
-      longitude: 30.52061909999999,
+      latitude: 30.3417297,
+      longitude:  78.23061909999999,
       address: "Velyka Vasylkivska St, 1-3"
     },
     categories: [
@@ -2279,8 +2279,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/3c8833d8-ef99-4e45-8d56-f878f6c76f26.jpg",
     location: {
-      latitude: 50.449405547535825,
-      longitude: 30.525966074007883,
+      latitude: 30.349405547535825,
+      longitude:  78.235966074007883,
       address: "Maidan Nezalezhnosti, 1"
     },
     categories: [
@@ -2329,8 +2329,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/adc7aa5c-a287-4686-94aa-4b6f1236bfd6.jpg",
     location: {
-      latitude: 50.4326365,
-      longitude: 30.515808,
+      latitude: 30.3326365,
+      longitude:  78.135808,
       address: "Velyka Vasylkivska St, 68"
     },
     categories: [
@@ -2374,8 +2374,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/3a67a01f-caa2-44ec-b6cf-ae72cc0a09e7.jpg",
     location: {
-      latitude: 50.4494116,
-      longitude: 30.4914352,
+      latitude: 30.3494116,
+      longitude:  78.0314352,
       address: "Dmytrivska St, 9-11"
     },
     categories: [
@@ -2411,7 +2411,7 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/5f84c29d-0dc1-4eec-8f20-d1ca7e5f0c71.jpg",
     location: {
-      latitude: 50.424998,
+      latitude: 30.324998,
       longitude: 30.4782622,
       address: "Solomianska St, 15A"
     },
@@ -2449,8 +2449,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/34f75966-9cac-4903-acbe-296768812533.jpg",
     location: {
-      latitude: 50.4627752,
-      longitude: 30.5079068,
+      latitude: 30.3627752,
+      longitude:  78.0379068,
       address: "Verkhnii Val St, 2А"
     },
     categories: [
@@ -2486,8 +2486,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/dc0cde72-256c-4d78-82ec-01df38f73028.jpg",
     location: {
-      latitude: 50.44213997319101,
-      longitude: 30.521244092037204,
+      latitude: 30.34213997319101,
+      longitude:  78.231244092037204,
       address: "Bessarabs'ka Square, 2"
     },
     categories: [
@@ -2546,8 +2546,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/b703f54d-b0a9-4870-b78f-a7b2a3e8607f.jpg",
     location: {
-      latitude: 50.450893,
-      longitude: 30.5226522,
+      latitude: 30.350893,
+      longitude:  78.2326522,
       address: "Maidan Nezalezhnosti, 1"
     },
     categories: [
@@ -2584,8 +2584,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/c6e01037-0310-4149-82fa-d8c7ef97fd83.jpg",
     location: {
-      latitude: 50.42233823513027,
-      longitude: 30.51740982109184,
+      latitude: 30.32233823513027,
+      longitude:  78.13740982109184,
       address: "Antonovycha St, 111"
     },
     categories: [
@@ -2646,8 +2646,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/ac31c2a9-aee5-49e0-bb0d-d2a9dd4d774f.jpg",
     location: {
-      latitude: 50.4506798,
-      longitude: 30.526015,
+      latitude: 30.3506798,
+      longitude:  78.236015,
       address: "Khreschatyk St, 7/11"
     },
     categories: [
@@ -2688,8 +2688,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/02d8ce38-5f2a-4e33-b596-108138c687d9.jpg",
     location: {
-      latitude: 50.4462597,
-      longitude: 30.51579250000001,
+      latitude: 30.3462597,
+      longitude:  78.13579250000001,
       address: "Bohdana Khmel'nyts'koho St, 16-22, Kyiv, Ukraine, 02000"
     },
     categories: [
@@ -2723,8 +2723,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/53adbc2a-c8b0-47ad-b06f-ace1b3027e55.jpg",
     location: {
-      latitude: 50.442383,
-      longitude: 30.521535,
+      latitude: 30.342383,
+      longitude:  78.231535,
       address: "Bessarabs'ka Square, 2"
     },
     categories: [
@@ -2760,8 +2760,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/911fb6dd-679f-4558-9c1b-6e58f8a1222f.jpg",
     location: {
-      latitude: 50.450893,
-      longitude: 30.5226522,
+      latitude: 30.350893,
+      longitude:  78.2326522,
       address: "Maidan Nezalezhnosti, 1"
     },
     categories: [
@@ -2797,8 +2797,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/c45e439b-7208-47fb-9c84-5b8b19067328.jpg",
     location: {
-      latitude: 50.4423754,
-      longitude: 30.49590509999999,
+      latitude: 30.3423754,
+      longitude:  78.03590509999999,
       address: "Zhylianska St, 124"
     },
     categories: [
@@ -2834,8 +2834,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/8fe50d84-eee6-47dc-ab6b-22218d9910ca.jpg",
     location: {
-      latitude: 50.462782,
-      longitude: 30.494972,
+      latitude: 30.362782,
+      longitude:  78.034972,
       address: "Hlybochytska St, 33/37"
     },
     categories: [
@@ -2884,8 +2884,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/e9a2cc00-1f08-4770-8398-a98630aa098b.jpg",
     location: {
-      latitude: 50.445993373602434,
-      longitude: 30.51609549890798,
+      latitude: 30.345993373602434,
+      longitude:  78.13609549890798,
       address: "Bohdana Khmel'nyts'koho St, 16-22"
     },
     categories: [
@@ -2925,8 +2925,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/a14185e1-ee88-43e1-a2ca-a5444c022c4a.jpg",
     location: {
-      latitude: 50.42214730000001,
-      longitude: 30.51943450000001,
+      latitude: 30.32214730000001,
+      longitude:  78.13943450000001,
       address: "Velyka Vasylkivska St, 114"
     },
     categories: [
@@ -2962,8 +2962,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/cbed4179-5ea1-4c43-94ab-a907746e58da.jpg",
     location: {
-      latitude: 50.4465884,
-      longitude: 30.5140189,
+      latitude: 30.3465884,
+      longitude:  78.1340189,
       address: "Volodymyrska St, 51-53"
     },
     categories: [
@@ -3014,8 +3014,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/f643aaaa-c2ee-4828-9cdf-55f2450e068b.jpg",
     location: {
-      latitude: 50.40043313957526,
-      longitude: 30.512306375911457,
+      latitude: 30.30043313957526,
+      longitude:  78.132306375911457,
       address: "Holosiivskyi prospekt, 58a"
     },
     categories: [
@@ -3062,8 +3062,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/8eac1eb0-db4a-499e-afd5-116b92a03a7b.jpg",
     location: {
-      latitude: 50.43310849999999,
-      longitude: 30.5156884,
+      latitude: 30.33310849999999,
+      longitude:  78.1356884,
       address: "Velyka Vasylkivska St, 66"
     },
     categories: [
@@ -3107,8 +3107,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/0b214c90-f214-4472-88a9-26c4bb549f1c.jpg",
     location: {
-      latitude: 50.450893,
-      longitude: 30.5226522,
+      latitude: 30.350893,
+      longitude:  78.2326522,
       address: "Maidan Nezalezhnosti, 1"
     },
     categories: [
@@ -3149,8 +3149,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/1543588328794-w550-47.jpg",
     location: {
-      latitude: 50.44500019999999,
-      longitude: 30.50565559999999,
+      latitude: 30.34500019999999,
+      longitude:  78.03565559999999,
       address: "бульвар Тараса Шевченка, 26, Київ, Украина, 02000"
     },
     categories: [
@@ -3196,8 +3196,8 @@ export const RestaurantsData = [
     imageUrl:
       "//uber-eats-mates.herokuapp.com/images/dfae85a2-6a62-462a-9663-f137309bad1c.jpg",
     location: {
-      latitude: 50.45342180000001,
-      longitude: 30.51961,
+      latitude: 30.35342180000001,
+      longitude:  78.13961,
       address: "Mala Zhytomyrska St, 15"
     },
     categories: [

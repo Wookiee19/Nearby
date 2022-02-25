@@ -9,7 +9,7 @@
   display: flex;
   top: 72px;
   height: 364px;
-  width: 100%;
+   width: 100%;
   overflow: hidden;
   z-index: -1;
   align-items: center;
@@ -17,11 +17,11 @@
 
 .restaurant-teaser__background-image {
   /* margin-left: 50%; */
-  width: 100%;
+  width: 70%;
 }
 .restaurant-teaser__background-image1 {
   
-  width: 50%;
+  width: 30%;
 }
 
 .restaurant-teaser__wrapper {

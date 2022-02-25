@@ -14,7 +14,7 @@ export function RestaurantPage(props) {
             );
             const loadedRestaurant = await response.json();
             await setRestaurant(loadedRestaurant);
-            console.log("sss",restaurant);
+            
         })();
     });
 
