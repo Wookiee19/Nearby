@@ -19,6 +19,7 @@ function ListPage(props) {
           }
 
           {RestaurantsData={...data}}
+          {console.log("gggggg")}
           {console.log("aaaa",...data)}
         }}
       </Query>
