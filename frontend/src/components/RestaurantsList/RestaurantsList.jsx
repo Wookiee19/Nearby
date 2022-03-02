@@ -3,7 +3,7 @@ import { RestaurantCard } from "../RestaurantCard/RestaurantCard";
 import "./RestaurantsList.css";
 import {Loader} from "../Loader/Loader";
 import RestaurantsData1 from "../data/RestaurantsData1";
-import MyComponent from "../data/mycomponent";
+// import MyComponent from "../data/mycomponent";
 
 
 export function RestaurantsList(props) {
@@ -48,7 +48,7 @@ export function RestaurantsList(props) {
         );
       }) : <Loader/>} */}
       <RestaurantsData1/>
-      <MyComponent/>
+      {/* <MyComponent/> */}
     </div>
   );
 }
