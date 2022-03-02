@@ -12,6 +12,7 @@
     "create-react-app": "^3.0.1",
     "depcheck": "^1.4.3",
     "google-map-react": "^2.1.10",
+    "graphql": "^14.7.0",
     "graphql-tag": "^2.12.6",
     "husky": "^7.0.4",
     "react": "^16.8.6",
