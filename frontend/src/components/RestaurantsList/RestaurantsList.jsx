@@ -3,13 +3,14 @@ import { RestaurantCard } from "../RestaurantCard/RestaurantCard";
 import "./RestaurantsList.css";
 import {Loader} from "../Loader/Loader";
 import RestaurantsData1 from "../data/RestaurantsData1";
+import MyComponent from "../data/mycomponent";
 
 
 export function RestaurantsList(props) {
   const [RestaurantsData, setRestaurantsData] = useState([]);
   useEffect(() => {
     (async () => {
-      const fetchedRestaurants = await fetch('https://nearby-eats-mates.herokuapp.com/api/v1/restaurants');
+      const fetchedRestaurants = await fetch('');
       const loadedRestaurants = await fetchedRestaurants.json();
 
       await setRestaurantsData(loadedRestaurants);
@@ -30,7 +31,7 @@ export function RestaurantsList(props) {
 
   return (
     <div className="restaurants-list">
-      {filtred.length > 0 ? filtred.map((restaurant) => {
+      {/* {filtred.length > 0 ? filtred.map((restaurant) => {
         return (
           <RestaurantCard
             key={restaurant.uuid}
@@ -45,8 +46,9 @@ export function RestaurantsList(props) {
             deliveryTime={`${restaurant.etaRange.min}-${restaurant.etaRange.max} Min`}
           />
         );
-      }) : <Loader/>}
+      }) : <Loader/>} */}
       <RestaurantsData1/>
+      <MyComponent/>
     </div>
   );
 }

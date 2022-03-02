@@ -10,13 +10,16 @@ import ListPage from "./ListPage";
 
 export default function RestaurantsData1() {
     const RestaurantsData=[];
+    const [post, setPost] = React.useState(null);
+    
+   
   return (
     <Router>
       <ApolloProvider client={client}>
       <div className="App">
           <Switch>
             <Route path="" component={ListPage} />
-            
+            <ListPage/>
           </Switch>
         </div>
       
